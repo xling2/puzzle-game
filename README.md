@@ -1,12 +1,12 @@
 # puzzle-game
-A Puzzle Game APP for mobile appilication individual project
+A Puzzle Game App for mobile appilication individual project made by Xingyu Ling (xling2)
 
 
-1. It was created using Expo.
+1. It was created using react native with Expo XDE.
 
-2. The app has 6 screens: “Home”, “Choose Image”, “ImagePicker”, “GameBoard”, “EasyMode” and “Hard Mode”.
+2. The App has 6 screens: “Home”, “Choose Image”, “ImagePicker”, “GameBoard”, “EasyMode” and “Hard Mode”.
 
 3. The src package contains a cropper method for image cropping.
 
-4. The assets package contains all images and logos. All images are from Internet, and all logos were made by Xingyu Ling using photoshop.
+4. The assets package contains images and logos that the App used. All images are from Internet, and all logos were made by Xingyu Ling using photoshop.
 
